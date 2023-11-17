@@ -21,6 +21,7 @@ seata:
       seata-server: 192.168.1.211:8091
 
 
+
 management:
   tracing:
     sampling:
